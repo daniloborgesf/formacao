@@ -1,0 +1,11 @@
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 50px;
+  color: royalblue;
+  line-height: 2.0;
+  text-align: center;
+}

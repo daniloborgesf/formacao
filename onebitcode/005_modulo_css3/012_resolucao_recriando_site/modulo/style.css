@@ -1,0 +1,28 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: yellow;
+}
+
+div#days-of-week ul li {
+  color: white;
+}
+
+h3 {
+  background-color: yellow;
+  border: 2px solid black;
+}
+
+#astronomy-class {
+  color: red;
+}
+
+hr {
+  border: 2px solid black;
+}
