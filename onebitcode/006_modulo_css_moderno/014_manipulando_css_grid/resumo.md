@@ -4,13 +4,13 @@
 
 Com ele ativado, todo o espaço disponível da tela, será ocupado.
 
-- Link do MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/display
+MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/display
 
 # Grid Template Colunms
 
 Conseguimos definir as colunas da página.
 
-- Link do MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns
+MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns
 
 # Responsividade
 
@@ -24,4 +24,4 @@ Utilizado para dar o espaçamento nas linhas e colunas.
 
 # Grid Auto Flow
 
-- Link do MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow
+MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow
