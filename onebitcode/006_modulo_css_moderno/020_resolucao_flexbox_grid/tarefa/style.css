@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+/* header */
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+}
+
+.logoNavBar {
+  width: 180px;
+}
+
+.header {
+  width: 100%;
+  min-height: 40px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 40px;
+  gap: 8px 15px;
+}
+
+.headerBtnGroup {
+  display: flex;
+  gap: 20px;
+}
+
+.navBtn {
+  font-size: 15px;
+  padding: 10px;
+  background-color: transparent;
+  border: 2px solid transparent;
+  color: white;
+  cursor: pointer;
+  transition: 0.5;
+}
+
+.navBtn:hover {
+  border-bottom: 2px solid red;
+}
+
+/* section */
+
+.sectionTitle {
+  font-size: 26px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  padding-top: 10px;
+  color: black;
+}
+
+.sectionDescription {
+  text-align: center;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
